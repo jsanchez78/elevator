@@ -1,7 +1,6 @@
-Mugdha Deepak Gawde
-Course Name  : Operating Systems
-Lab Number   : 5
-Lab          : Elevator Simulation
+Jacob Sanchez
+Course Name  : Computer Systems
+Project      : Elevator Simulation
 -------------------------------------------------------------------------------
 
 
